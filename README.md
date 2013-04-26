@@ -10,7 +10,10 @@ The csv file should be the same format as the csv contains the time series.
 For the settings file.
 
 host: 'xxx.xxx.xxx.xx',  # socket server host
+
 port:
+
 test_file_dst: '/home/user/testdata/socket/xxx.csv',
+
 timeout: 200
 
