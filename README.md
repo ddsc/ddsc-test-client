@@ -11,9 +11,9 @@ For the settings file.
 
 host: 'xxx.xxx.xxx.xx',  # socket server host
 
-port:
+port: (number of the port)
 
 test_file_dst: '/home/user/testdata/socket/xxx.csv',
 
-timeout: 200
+timeout: (a time out value)
 
